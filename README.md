@@ -10,6 +10,5 @@
 - avancement de la version linux : Tabegon
 - création des épisodes : Léonyx
 - Messages:
-  - (Message de Tabegon) Allez vous abonnez à MonsieurTh30 sur Youtube pour me soutenir
   - (Message de Leonyx) Un autre jeux vidéos est actuellement en codage dans le studio
 
